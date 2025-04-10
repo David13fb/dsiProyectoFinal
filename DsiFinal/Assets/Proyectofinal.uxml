@@ -1,7 +1,8 @@
 <ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
     <Style src="project://database/Assets/proyecto_final.uss?fileID=7433441132597879392&amp;guid=00e896d6a682ca8469e60094285e58e4&amp;type=3#proyecto_final" />
     <ui:VisualElement name="background" style="flex-grow: 1;">
-        <ui:VisualElement name="item" style="flex-grow: 1; background-color: rgb(255, 255, 255); background-image: resource(&apos;sprite&apos;);" />
+        <ui:VisualElement name="item" style="flex-grow: 1; background-color: rgb(255, 255, 255); background-image: resource(&apos;sprite&apos;); display: none;" />
         <ui:VisualElement name="claves" style="flex-grow: 1; background-color: rgb(255, 255, 255); background-image: resource(&apos;sprite (1)&apos;); display: none;" />
+        <ui:VisualElement name="estado" style="flex-grow: 1; background-image: resource(&apos;sprite (1)&apos;);" />
     </ui:VisualElement>
 </ui:UXML>
