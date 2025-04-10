@@ -1,0 +1,2966 @@
+fileFormatVersion: 2
+guid: d523a40a5bd21aa46985bb522f664a46
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements
+        JPN_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 382
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19654a7eb90299d4092b5c270d429aab
+      internalID: -765834666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements
+        JPN_1
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 382
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f711f58c53cf0664da08a3b971a4521f
+      internalID: 903230160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements
+        JPN_2
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 382
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfb05ee7379e35949a8a527a08855741
+      internalID: -864075182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements
+        JPN_3
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 217
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 733d02d7e7437784a8ab526c63af4461
+      internalID: -360379447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements
+        JPN_4
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 217
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 551021a35579bb241b194c7d51255ade
+      internalID: -1743120428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements
+        JPN_5
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 217
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9705dcf9d80b7847b1c507d6e0af83c
+      internalID: 393045571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements
+        JPN_6
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 205
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b79c37e209e6444a8ce2a98cc6a692c
+      internalID: 1259294708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements
+        JPN_7
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 205
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b632eece4e5b47e48b9ebcf6fe8326a5
+      internalID: -1631341020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements
+        JPN_8
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 186
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c37a902fa2e7d7c4487ad1407d86d150
+      internalID: 1884688309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements
+        JPN_9
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 187
+        width: 128
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bd757d30f4e99c4782fe2cbf09b931b
+      internalID: 2017606220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements
+        JPN_10
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 186
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06e82199d5e19544484da2696cf76bb2
+      internalID: -664013889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements
+        JPN_11
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 183
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b35413d0b108bfe49882cf46597cdd56
+      internalID: 2008961516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements
+        JPN_12
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 178
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2124072c1a5d3544eb76d241608a0917
+      internalID: -256973637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements
+        JPN_13
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 82
+        width: 216
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00c30b844ec944c499044c67c5685872
+      internalID: -1219012747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements
+        JPN_14
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 185
+        width: 77
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8868d7a81a3306a4a833cdc9fcccd858
+      internalID: 805473276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements
+        JPN_15
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 185
+        width: 73
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9698896a31ccda4180e333347c527c3
+      internalID: 898484701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements
+        JPN_16
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 185
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5684f187a74f34045b5a1a1ad4db943a
+      internalID: 1777488495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements
+        JPN_17
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 185
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 081624429abf83444a26a019616379be
+      internalID: 1952594667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements
+        JPN_18
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 112
+        width: 256
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37c38d56cfdc44f4a90fd646bcdeb6e1
+      internalID: -86866566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements
+        JPN_19
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 152
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2596d32fdb98c3244a367486bb202107
+      internalID: 568893304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements
+        JPN_20
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 152
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1ba960e3d94ebe40a9c533bf46b7385
+      internalID: 2005668722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements
+        JPN_21
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 138
+        width: 120
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd933750838b6d2478b63986adaaa543
+      internalID: -718393838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements
+        JPN_22
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 157
+        width: 93
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 580e861f93eb681479f76df5a4b08867
+      internalID: 2082096521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements
+        JPN_23
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 155
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dc3c075dac4d984698d50b3934d1715
+      internalID: 446455723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements
+        JPN_24
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 116
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb42f3aca83403644b3c1bac19019dab
+      internalID: -2056605424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements
+        JPN_25
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 138
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8cb74c21d6cf884bb9c771821b10ca3
+      internalID: 600069007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements
+        JPN_26
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 107
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 648d50f35a70d9d4a8fa5aff6f8433ff
+      internalID: -555077737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements
+        JPN_27
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 114
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6f5f7a45cdb96242bcac8d3a8d7bf99
+      internalID: 498675612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements
+        JPN_28
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 114
+        width: 40
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eb83fd7ada348640ad81d9850ba1551
+      internalID: -1112044948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements
+        JPN_29
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 89
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41b1f6148a27e7e489c7cf4234a18e37
+      internalID: 1990972311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements
+        JPN_30
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 89
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55f016d57cc0b254097299509019c816
+      internalID: -760917441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements
+        JPN_31
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 89
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21e6e94de0ef97044a24b2267248e9d5
+      internalID: -2139210665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements
+        JPN_32
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 89
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83109b8a2a7e6d347a32347e9a710c05
+      internalID: 1068992184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements
+        JPN_33
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 89
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f817966898affb438fcf922a6abd953
+      internalID: 1760584781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements
+        JPN_34
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 89
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91b6c4ba04186574aba3bdbb048fdc65
+      internalID: -1861077633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements
+        JPN_35
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 89
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42fd5b1e6d65c724e9bd21cb1994254f
+      internalID: -1416496859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements
+        JPN_36
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 90
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 594a34fc679867d438400724076404ab
+      internalID: -2041521752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements
+        JPN_37
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 90
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3ae22790587b624c94a3532847cd146
+      internalID: 2139834406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements
+        JPN_38
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 90
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b661ecb98d604940888fb7f491f691d
+      internalID: -1975598848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements
+        JPN_39
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 90
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c1c0b489d070e149b869dbdac80ea38
+      internalID: -2023349114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements
+        JPN_40
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 90
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8f731e9f7008504a8ca004cd6ce9b21
+      internalID: 1336319519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements
+        JPN_41
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 94
+        width: 28
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66a519b645e2b9a49be5010fb5f2ec4d
+      internalID: 1556938708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements
+        JPN_42
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 94
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ffb42c5ca633004badcbf4997dd321c
+      internalID: 875748103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements
+        JPN_43
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 94
+        width: 25
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6d8fb20de173ec418ee9990ea8dfaf9
+      internalID: -1482994430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements
+        JPN_44
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00621c3d9c9f3724db597e8c6faac8a5
+      internalID: 207043998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements
+        JPN_45
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 91
+        width: 42
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c5c0fb5bd834a0479de63b7266b348d
+      internalID: -1300112762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements
+        JPN_46
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 56
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4656acb6af112df4593d539250f98abb
+      internalID: -1581007070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements
+        JPN_47
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 56
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9bbc254091811f4abeb175dbc03e888
+      internalID: -950933400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements
+        JPN_48
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 52
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a480345017c054b48b5f912f66b4db97
+      internalID: -1916936827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements
+        JPN_49
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 56
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c187a8b3e809d5645ade9fa01ca5d9f0
+      internalID: 529148690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements
+        JPN_50
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 56
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57a3e7cb96a930d4dbfb92d0f391150f
+      internalID: -1632681346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements
+        JPN_51
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 56
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2ead2865655d234d98e34d3a449ed2e
+      internalID: 1368887193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements
+        JPN_52
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 56
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa52574b8f5fc474799af4a398ef601d
+      internalID: -2014637919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements
+        JPN_53
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 56
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79f6df335b5d03542a9ddcbf318af801
+      internalID: -1013052857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements
+        JPN_54
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 56
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ef2892e2c8ee544a897e946384413f3
+      internalID: 517614048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements
+        JPN_55
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 56
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b83494933b06df84b9748056fe150d3e
+      internalID: -1828573244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements
+        JPN_56
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 56
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb2bf4d83aefc294fa8a5905066b5087
+      internalID: -1068747757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements
+        JPN_57
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 56
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f10d18afe6dcbd4e9b2f42b1e483157
+      internalID: -1504909200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements
+        JPN_58
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 56
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2578ff4f510b78e42bf948300ee21709
+      internalID: 740328301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements
+        JPN_59
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 56
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e845b6b4352cb8478af305aa414d34a
+      internalID: 428899006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements
+        JPN_60
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 56
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9739287cf5c67348b4ac3b0e10600cc
+      internalID: 1612722925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements
+        JPN_61
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 56
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28b80b66351b1e34a9cf4d10a777813b
+      internalID: 1598328729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements
+        JPN_62
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 56
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3412ee633c5a1d348abf2205aa48997f
+      internalID: -474593306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements
+        JPN_63
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 56
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36991f1abcebe694c8d7fdcfa58e488f
+      internalID: -484938678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements
+        JPN_64
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 56
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fde630ea13440cf4abc7ca5d9504b0fc
+      internalID: -1788500327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements
+        JPN_65
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 56
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fb8b5380b010ce4b84ba5443051c6ed
+      internalID: 720999309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements
+        JPN_66
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 56
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e74008de8428414cae688ede224c81d
+      internalID: 1131182770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements
+        JPN_67
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 56
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 531cd262ee928db4184afa44984406ba
+      internalID: 1736954531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements
+        JPN_68
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 56
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c2baaa3d79b03a4abd9ee4e1a1f46d0
+      internalID: 301934757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements
+        JPN_69
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 56
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 252132d1d75ac8c4c9b7e6e21b516bc5
+      internalID: -1948456902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements
+        JPN_70
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 56
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f472ec9271e142f47867cc6c062b45ef
+      internalID: 161156295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements
+        JPN_71
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 56
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0533456995931d84b8569f7245f5aff9
+      internalID: 1189968882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements
+        JPN_72
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 56
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86bae5a66209eba44a889e86bd86f734
+      internalID: 1236414289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements
+        JPN_73
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 56
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4cf1959aa12ce3438d7d29525760244
+      internalID: 190666635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements
+        JPN_74
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 56
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78fb0d0e09a3446418522700cf1a4221
+      internalID: 1505220618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements
+        JPN_75
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 56
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa985d24f0023a84686fce9207c5ee78
+      internalID: 61010114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements
+        JPN_76
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 56
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c67dfe750eb4f848b4d4d755084b1cc
+      internalID: -217124957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements
+        JPN_77
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 56
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c038039cf016ae142a812b25a00daeff
+      internalID: -108610853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements
+        JPN_78
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 56
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcb306f0f72907940b58ebf7f4c3b9ba
+      internalID: -2140177895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements
+        JPN_79
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 56
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79617850a5b7241428f86e6e4716d267
+      internalID: 586677319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements
+        JPN_80
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 56
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ceba0c77f4f12549ab8f84926438ed1
+      internalID: -1171138430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements
+        JPN_81
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 31
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0b972ec9fb3707408add4daca459071
+      internalID: -2026755317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements
+        JPN_82
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 27
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e68e251da91a8714da15da00c7375c96
+      internalID: -316870527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements
+        JPN_83
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 27
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54d870cbff9a70746913d4ed7e265c81
+      internalID: 1379911255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements
+        JPN_84
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 31
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b3fd4eabad1f9c4da8b3e54b50c1125
+      internalID: -1922453679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements
+        JPN_85
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 31
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0604d8dc728726545976f6464a910132
+      internalID: 1332762898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements
+        JPN_86
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 31
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fab6f302bf676014c8eb9a9de77a3523
+      internalID: 708837082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements
+        JPN_87
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 31
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 001331518a3f88c4b87127acefadc578
+      internalID: 1911723865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements
+        JPN_88
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 31
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 915b317ccb945f14b81c8451220c4138
+      internalID: 272074612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements
+        JPN_89
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 31
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 726963f5754ed6d489d9d7e3d78968cb
+      internalID: 2066518313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements
+        JPN_90
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 31
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ea38d33b03a736438162a0118ac26bf
+      internalID: -2065707886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements
+        JPN_91
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 31
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 838feef008132e949aaea192f76162c9
+      internalID: 1556207458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements
+        JPN_92
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 31
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df83800d34191e0409434eb8571a7935
+      internalID: -1891309393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements
+        JPN_93
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 31
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9aa08440109f7d4394f4fa0eff0598b
+      internalID: 1601093719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements
+        JPN_94
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 31
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a50f09825f69f6947ab4dd498b40e864
+      internalID: -131041580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements
+        JPN_95
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 31
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b267649be54907f4ea7991e52bf0c0e4
+      internalID: -854852411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements
+        JPN_96
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 31
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94509a1646d29054d95e9d76cb8af112
+      internalID: -1021191748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements
+        JPN_97
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 31
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c8955436f2c6834090c4719f4f517c2
+      internalID: -1625424118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements
+        JPN_98
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 31
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15b1dfbe8c2109942b8ad03417e5ba74
+      internalID: 1312221430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements
+        JPN_99
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 31
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76973231fa53a144896a99b3e248f572
+      internalID: -598595646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements
+        JPN_100
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 26
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44a640ea03c678c428e28fbfc00e5959
+      internalID: -1260396686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements
+        JPN_101
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 31
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18355375ab98c7448a4dbf2e930dba05
+      internalID: -1575955778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements
+        JPN_102
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 31
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64fbbb11f5254244cbc11d189aff7f0b
+      internalID: -580908796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements
+        JPN_103
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 31
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 646a22c88e074d14fbf153a687c2c53f
+      internalID: 692461477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements
+        JPN_104
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 31
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb6313d2505136040a0a4cebae97d87f
+      internalID: 1511113984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements
+        JPN_105
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 31
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 904f9ea821f59ab42a718df033711819
+      internalID: -1117713546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements
+        JPN_106
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 31
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 604fc93f0e34b474cb9e8028d80908ff
+      internalID: -820300049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements
+        JPN_107
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 26
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4844b3d5741dd244b7747ae67941794
+      internalID: -1066140018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements
+        JPN_108
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 31
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a37483afebe1be64488e940d2ac5dd59
+      internalID: -999594022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements
+        JPN_109
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 31
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c9e486eacc148e4db8f464711cb4f7d
+      internalID: -1454080988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements
+        JPN_110
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 31
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7557add22c674714aba7470a62e0b805
+      internalID: -74970939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements
+        JPN_111
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 31
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cf73802db4efe243b8eb0df7d4c3da5
+      internalID: -920882872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements
+        JPN_112
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 31
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cfecce80d787ed408434385093d39a4
+      internalID: 1384838077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements
+        JPN_113
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 6
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a6cfe280f23b8749bd13744a6673264
+      internalID: -1713535766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements
+        JPN_114
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 6
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad5ee650de7ca5e4c8f47bc5792d7cd1
+      internalID: -1613219356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements
+        JPN_115
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 6
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc4130a697c16414c9d12a5c77603c2f
+      internalID: -750197087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements
+        JPN_116
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 6
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d4956ac8216ccf4fb16b25cd3a1023c
+      internalID: 30391169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements
+        JPN_117
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 6
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3ad81dbfd9c8aa49ae4dae722314ad2
+      internalID: 983825751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements
+        JPN_118
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 6
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3889732cc1421b042988d8a851723c80
+      internalID: 449221276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements
+        JPN_119
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 6
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbcb6eea4a964b744ad61f8c50a87737
+      internalID: 614832122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements
+        JPN_120
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 6
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd162eaddfea1e64fb91dc7ff5c95419
+      internalID: 1529516894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements
+        JPN_121
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 6
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b229568700d2105469df5d2ccc349993
+      internalID: -905630915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements
+        JPN_122
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 6
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e84e358bc8fa2148ad4aa88b0af6e55
+      internalID: 1444318024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements
+        JPN_123
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 6
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 949aeb7162fee8d4c8c46df4ba9f0632
+      internalID: 290116244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements JPN_0: -765834666
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements JPN_1: 903230160
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements JPN_10: -664013889
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements JPN_100: -1260396686
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements JPN_101: -1575955778
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements JPN_102: -580908796
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements JPN_103: 692461477
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements JPN_104: 1511113984
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements JPN_105: -1117713546
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements JPN_106: -820300049
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements JPN_107: -1066140018
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements JPN_108: -999594022
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements JPN_109: -1454080988
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements JPN_11: 2008961516
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements JPN_110: -74970939
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements JPN_111: -920882872
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements JPN_112: 1384838077
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements JPN_113: -1713535766
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements JPN_114: -1613219356
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements JPN_115: -750197087
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements JPN_116: 30391169
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements JPN_117: 983825751
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements JPN_118: 449221276
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements JPN_119: 614832122
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements JPN_12: -256973637
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements JPN_120: 1529516894
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements JPN_121: -905630915
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements JPN_122: 1444318024
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements JPN_123: 290116244
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements JPN_13: -1219012747
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements JPN_14: 805473276
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements JPN_15: 898484701
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements JPN_16: 1777488495
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements JPN_17: 1952594667
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements JPN_18: -86866566
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements JPN_19: 568893304
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements JPN_2: -864075182
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements JPN_20: 2005668722
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements JPN_21: -718393838
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements JPN_22: 2082096521
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements JPN_23: 446455723
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements JPN_24: -2056605424
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements JPN_25: 600069007
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements JPN_26: -555077737
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements JPN_27: 498675612
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements JPN_28: -1112044948
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements JPN_29: 1990972311
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements JPN_3: -360379447
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements JPN_30: -760917441
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements JPN_31: -2139210665
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements JPN_32: 1068992184
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements JPN_33: 1760584781
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements JPN_34: -1861077633
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements JPN_35: -1416496859
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements JPN_36: -2041521752
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements JPN_37: 2139834406
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements JPN_38: -1975598848
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements JPN_39: -2023349114
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements JPN_4: -1743120428
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements JPN_40: 1336319519
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements JPN_41: 1556938708
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements JPN_42: 875748103
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements JPN_43: -1482994430
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements JPN_44: 207043998
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements JPN_45: -1300112762
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements JPN_46: -1581007070
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements JPN_47: -950933400
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements JPN_48: -1916936827
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements JPN_49: 529148690
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements JPN_5: 393045571
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements JPN_50: -1632681346
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements JPN_51: 1368887193
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements JPN_52: -2014637919
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements JPN_53: -1013052857
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements JPN_54: 517614048
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements JPN_55: -1828573244
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements JPN_56: -1068747757
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements JPN_57: -1504909200
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements JPN_58: 740328301
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements JPN_59: 428899006
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements JPN_6: 1259294708
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements JPN_60: 1612722925
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements JPN_61: 1598328729
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements JPN_62: -474593306
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements JPN_63: -484938678
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements JPN_64: -1788500327
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements JPN_65: 720999309
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements JPN_66: 1131182770
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements JPN_67: 1736954531
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements JPN_68: 301934757
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements JPN_69: -1948456902
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements JPN_7: -1631341020
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements JPN_70: 161156295
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements JPN_71: 1189968882
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements JPN_72: 1236414289
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements JPN_73: 190666635
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements JPN_74: 1505220618
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements JPN_75: 61010114
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements JPN_76: -217124957
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements JPN_77: -108610853
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements JPN_78: -2140177895
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements JPN_79: 586677319
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements JPN_8: 1884688309
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements JPN_80: -1171138430
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements JPN_81: -2026755317
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements JPN_82: -316870527
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements JPN_83: 1379911255
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements JPN_84: -1922453679
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements JPN_85: 1332762898
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements JPN_86: 708837082
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements JPN_87: 1911723865
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements JPN_88: 272074612
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements JPN_89: 2066518313
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements JPN_9: 2017606220
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements JPN_90: -2065707886
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements JPN_91: 1556207458
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements JPN_92: -1891309393
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements JPN_93: 1601093719
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements JPN_94: -131041580
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements JPN_95: -854852411
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements JPN_96: -1021191748
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements JPN_97: -1625424118
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements JPN_98: 1312221430
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Pause Screen Elements JPN_99: -598595646
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

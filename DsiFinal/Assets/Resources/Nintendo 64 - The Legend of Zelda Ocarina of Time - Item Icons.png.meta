@@ -1,0 +1,1962 @@
+fileFormatVersion: 2
+guid: 28ae3ac05c1c95543895a173f82c5360
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 416
+        width: 32
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 823b4002306131a47976010422a3ffdb
+      internalID: -1371552614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 484
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aea2f8985fc71f4db6bf5f9116f77e9
+      internalID: 67062512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons_2
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 481
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fa580efe1025e34aa38e017e16add74
+      internalID: -993382321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e17209df4bfa90b4f81761323f27cdde
+      internalID: 868916018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons_4
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 480
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9aab431a22bf4c4caac0590e608309b
+      internalID: -2095637164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons_5
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 480
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60b6f4074afb9d94883dd88ddfab140e
+      internalID: 1651685535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons_6
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 448
+        width: 64
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 33, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97aec6ba557fa8344a417fcac3e39b99
+      internalID: 25919928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons_7
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 452
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c74b0a49a29740a4a90585898c01e953
+      internalID: 498606828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons_8
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 450
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 828c23c4f5db69d4581ca61ef7e5363d
+      internalID: -1556520727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons_9
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f7aa6e445a271d46b87b23bb20ab110
+      internalID: -1810183946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons_10
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 384
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 32, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57c2834f20ea4574594f471a7062b97e
+      internalID: 226873309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons_11
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 416
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcefcc03272159941ab0f326860b11ac
+      internalID: 2024132740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7494510293fe554989d0b804964a5fe
+      internalID: -1074824448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons_13
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 32
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 598fe15ecca7d364ca8a7076824d1ca0
+      internalID: 70617017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons_14
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 417
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6c4267d806244e4981b1364bb3b39ee
+      internalID: 1992227925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons_15
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 256
+        width: 30
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 520ea13299d287b43b5ed968c1cc9d06
+      internalID: 907068339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons_16
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 320
+        width: 25
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a5666fdae240fa4781623e94bfce0b0
+      internalID: 2042318758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons_17
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 352
+        width: 25
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca1b8bdfa2c09cf488a85c5c40326ef2
+      internalID: -2078975974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons_18
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 352
+        width: 25
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b834994e2125b94c86add23f28f9245
+      internalID: 1159971686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons_19
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 321
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a42031b07d63a54e8baccc0c16ebf2a
+      internalID: -256874214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons_20
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 321
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5322502715807ea48806694580009ac8
+      internalID: -916510400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons_21
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 288
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 665c14e37f661d447b16f62f7d8dca8b
+      internalID: 521275741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons_22
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 288
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e09806baad0954a429c90881aaac11da
+      internalID: -1724983108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons_23
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 288
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f933e4baea579847b1950665a625c83
+      internalID: -1887294030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons_24
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 32
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 238f52a1d30227245afc9e37c80a93bb
+      internalID: -1988574950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons_25
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 291
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 264323fe86b2c524caa807bdc6242b7d
+      internalID: -784447134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons_26
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 256
+        width: 61
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f3d0fcba6752e74c9cf9814aa1d1464
+      internalID: -1431798343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons_27
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 257
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f613ef662a2b7e049a3fffd38471ab12
+      internalID: -2121444068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons_28
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 256
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec391c66225d04e469dd7a7cd5e74ebe
+      internalID: -204933129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons_29
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 224
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42cb1cc7a1f84094ca25523fde74ea6e
+      internalID: -76103425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons_30
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e688b85c3f789c48837bc908a4d4dc4
+      internalID: 1493359267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons_31
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a4f1ec823eaf7a42acdb2c4fb0ee512
+      internalID: -1253395433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons_32
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 230
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 612ec80fa5c7ef44b979e52e955b4038
+      internalID: -281768454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons_33
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 225
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9162e44f1e2c280469624b99973d4410
+      internalID: -1535201757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons_34
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 192
+        width: 157
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8d6ff06913b32f4d9c791c7df97404e
+      internalID: 1623542078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons_35
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 195
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deb80ab2d31bad149989f508e4c3a283
+      internalID: 323748695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons_36
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 161
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93ff43873fc65eb4d9663df61f000606
+      internalID: 822887766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons_37
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 148971e1d18ba6a45bfa7a7e4d62d085
+      internalID: 432453813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons_38
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 161
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c46c730cde81f04182aa8b569d65527
+      internalID: 521238755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons_39
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 160
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0149eaca8ac765b44bacc5b259e9da4c
+      internalID: -1165687767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 129
+        width: 64
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71cfa4d1a6dba644ea6164527e0189bf
+      internalID: -1741858848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons_41
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 128
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1ff0f3d0f30a8a44851b04620714404
+      internalID: 717995071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons_42
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 128
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6b2a7babee11c84aa1c65614b8e8781
+      internalID: 291062755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons_43
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 128
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 794537c26719edc45bcead8399121eb7
+      internalID: 251043205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons_44
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 132
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 076089ec456365841a262ffe16b6e0cd
+      internalID: -755486384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons_45
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 98
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd3165deafca0f545a1b53c663ef28a0
+      internalID: 1476606722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons_46
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 31
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9af205ec1b3cfb4db47a2112f3594ef
+      internalID: 418185553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons_47
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5bbf45bc96d76b4bbe1bec312cb18b7
+      internalID: -606117453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons_48
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0549e30373696c4bb13ce7c6ba10dcf
+      internalID: 1385122372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons_49
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bd253d0613716f40bd3e1ea142e19ed
+      internalID: -212774969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons_50
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 100
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c75d4dbe04baf4b4d8cbaeba0dc29bc0
+      internalID: -1679696243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons_51
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 66
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aab3b04f2c0075749a52beb59b14e0ae
+      internalID: 196595084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons_52
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 64
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fed480de797c024da9f8b2db76eecf8
+      internalID: 455655566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons_53
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 31
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97852de2cc9ea254fac8ec3b0b5e2a89
+      internalID: 1316909186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons_54
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39ec8c1a4517fed41b70e0317ce6289b
+      internalID: 1863004985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons_55
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e607a823feab4fb46ab8920514e933a1
+      internalID: -1573401882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76f8aaa36c11e714f849d4ad0cc96448
+      internalID: -2066006626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons_57
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 889835c9f0db08d448edd8806bf548ed
+      internalID: 1232365957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons_58
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 20
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b86974ac0ff5364495eced466ae97eb
+      internalID: 1723298341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons_59
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 37
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f08a7d14a5222149afc06752f33c57f
+      internalID: 1343295251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons_60
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f978774467ea6e41ba7286dfcde69c4
+      internalID: 1734376136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons_61
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 18
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b896c682d1002341a30e8bb986f747b
+      internalID: -482214570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons_62
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 20
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bb9343f2ad1dc7468beeca50ea52d47
+      internalID: -1626704572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons_63
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 20
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a0b7b6bbb58ad04b946a1592b4e54d2
+      internalID: -974195862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons_64
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 20
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08d66b66cf1b9f140a0fd75300454c9a
+      internalID: 442245116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons_65
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 20
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14acb51c5d4739947bdcac462c270220
+      internalID: 812221697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons_66
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 20
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe8f360720b5e444ba5ce62b90662d1a
+      internalID: -2024167865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons_67
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 20
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a64658a2b8c29441b7d4dd6ec4b7910
+      internalID: -1454451840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons_68
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 20
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34398bae2a377e34090f2cfd7823c09a
+      internalID: -139991462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons_69
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 7
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c66c7188e1774fd45a3c47be8322ebf1
+      internalID: -282214549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons_70
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 5
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6a1d3a64510a964794e88d3bf32ff13
+      internalID: -2125572051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons_71
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 5
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2410028527de23241a0fa2f3f7a4d83f
+      internalID: 1612308586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons_72
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 7
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63ea156be1cd58642add979b70185b61
+      internalID: -432673635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons_73
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 7
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8367eda412cb5e94d98ac70ff49627d6
+      internalID: 1282080279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons_74
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 5
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ff10e9e3d001304fb0b1eae30746c07
+      internalID: -1935769716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons_75
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 7
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ab4d2b8522d039469271dfe5861708f
+      internalID: -1315934294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons_76
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 7
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daa188b2c3717034fae70974d1ca921f
+      internalID: -909086629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons_77
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 7
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 328de2d05cc5dd946adc572cc77b7c9d
+      internalID: -304507792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons_78
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 7
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ced4e3bce4c9c9f4aad9d5ed42becded
+      internalID: 47819780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons_79
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 7
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbdd9eb111f5ec74ea81cd46d2963c40
+      internalID: 1414244643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons_80
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 5
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e41373e8b3a7e464db0d7f59645eec07
+      internalID: 269514498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons_81
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 5
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2738262486f0a2a4eb381153234f0c64
+      internalID: 7702662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons_82
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 5
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54fed946889ae6c49a86dc97dd31ec01
+      internalID: -1998961679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons_83
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 7
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8306119af68bcde4ab26d64e7f2cedb1
+      internalID: 885720266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons_0: -1371552614
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons_1: 67062512
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons_10: 226873309
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons_11: 2024132740
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons_12: -1074824448
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons_13: 70617017
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons_14: 1992227925
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons_15: 907068339
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons_16: 2042318758
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons_17: -2078975974
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons_18: 1159971686
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons_19: -256874214
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons_2: -993382321
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons_20: -916510400
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons_21: 521275741
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons_22: -1724983108
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons_23: -1887294030
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons_24: -1988574950
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons_25: -784447134
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons_26: -1431798343
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons_27: -2121444068
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons_28: -204933129
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons_29: -76103425
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons_3: 868916018
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons_30: 1493359267
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons_31: -1253395433
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons_32: -281768454
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons_33: -1535201757
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons_34: 1623542078
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons_35: 323748695
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons_36: 822887766
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons_37: 432453813
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons_38: 521238755
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons_39: -1165687767
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons_4: -2095637164
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons_40: -1741858848
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons_41: 717995071
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons_42: 291062755
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons_43: 251043205
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons_44: -755486384
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons_45: 1476606722
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons_46: 418185553
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons_47: -606117453
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons_48: 1385122372
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons_49: -212774969
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons_5: 1651685535
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons_50: -1679696243
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons_51: 196595084
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons_52: 455655566
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons_53: 1316909186
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons_54: 1863004985
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons_55: -1573401882
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons_56: -2066006626
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons_57: 1232365957
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons_58: 1723298341
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons_59: 1343295251
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons_6: 25919928
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons_60: 1734376136
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons_61: -482214570
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons_62: -1626704572
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons_63: -974195862
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons_64: 442245116
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons_65: 812221697
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons_66: -2024167865
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons_67: -1454451840
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons_68: -139991462
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons_69: -282214549
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons_7: 498606828
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons_70: -2125572051
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons_71: 1612308586
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons_72: -432673635
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons_73: 1282080279
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons_74: -1935769716
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons_75: -1315934294
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons_76: -909086629
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons_77: -304507792
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons_78: 47819780
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons_79: 1414244643
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons_8: -1556520727
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons_80: 269514498
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons_81: 7702662
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons_82: -1998961679
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons_83: 885720266
+      Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons_9: -1810183946
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
