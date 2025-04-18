@@ -1,0 +1,48 @@
+.LeftPanel {
+    flex-grow: 1;
+    flex-direction: row;
+}
+
+.UnEquipableItems {
+    flex-grow: 1;
+    height: 502px;
+    bottom: -100px;
+    width: ;
+    flex-direction: column;
+}
+
+.UnEqupableItem1 {
+    flex-grow: 1;
+    height: -250px;
+    width: 126px;
+    left: 25px;
+}
+
+.UnEqupableItem2 {
+    flex-grow: 1;
+    width: 126px;
+    height: -250px;
+    left: 25px;
+}
+
+.UnEqupableItem3 {
+    flex-grow: 1;
+    left: 25px;
+    width: 126px;
+    height: -250px;
+}
+
+.UnEqupableItem4 {
+    flex-grow: 1;
+    left: 25px;
+    width: 126px;
+    height: -250px;
+}
+
+.ItemsEquipped {
+    flex-grow: 1;
+    height: 405px;
+    width: -72px;
+    bottom: -150px;
+    left: -10px;
+}
