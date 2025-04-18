@@ -17,24 +17,24 @@
         </ui:VisualElement>
         <ui:VisualElement name="RightPanel" class="RightPanel">
             <ui:VisualElement name="SwordOptions" class="Options">
-                <ui:VisualElement name="Left" style="flex-grow: 1;" />
-                <ui:VisualElement name="Middle" style="flex-grow: 1;" />
-                <ui:VisualElement name="Right" style="flex-grow: 1;" />
+                <ui:VisualElement name="Left" style="flex-grow: 1; background-image: resource(&apos;Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons - copia_60&apos;);" />
+                <ui:VisualElement name="Middle" style="flex-grow: 1; background-image: resource(&apos;Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons - copia_61&apos;);" />
+                <ui:VisualElement name="Right" style="flex-grow: 1; background-image: resource(&apos;espadabigoron&apos;);" />
             </ui:VisualElement>
             <ui:VisualElement name="ShieldOptions" class="Options" style="flex-grow: 0; flex-shrink: 0; top: 182px; height: 70px; width: 320px; left: 55px; flex-direction: row;">
-                <ui:VisualElement name="Left" style="flex-grow: 1;" />
-                <ui:VisualElement name="Middle" style="flex-grow: 1;" />
-                <ui:VisualElement name="Right" style="flex-grow: 1;" />
+                <ui:VisualElement name="Left" style="flex-grow: 1; background-image: resource(&apos;Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons - copia_63&apos;);" />
+                <ui:VisualElement name="Middle" style="flex-grow: 1; background-image: resource(&apos;Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons - copia_64&apos;);" />
+                <ui:VisualElement name="Right" style="flex-grow: 1; background-image: resource(&apos;Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons - copia_65&apos;);" />
             </ui:VisualElement>
             <ui:VisualElement name="SuitOptions" class="Options" style="flex-grow: 0; flex-shrink: 0; top: 245px; height: 70px; width: 320px; left: 55px; flex-direction: row;">
-                <ui:VisualElement name="Left" style="flex-grow: 1;" />
-                <ui:VisualElement name="Middle" style="flex-grow: 1;" />
-                <ui:VisualElement name="Right" style="flex-grow: 1;" />
+                <ui:VisualElement name="Left" style="flex-grow: 1; background-image: resource(&apos;Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons - copia_66&apos;);" />
+                <ui:VisualElement name="Middle" style="flex-grow: 1; background-image: resource(&apos;Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons - copia_67&apos;);" />
+                <ui:VisualElement name="Right" style="flex-grow: 1; background-image: resource(&apos;Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons - copia_68&apos;);" />
             </ui:VisualElement>
             <ui:VisualElement name="BootsOptions" class="Options" style="flex-grow: 0; flex-shrink: 0; top: 308px; height: 70px; width: 320px; left: 55px; flex-direction: row;">
-                <ui:VisualElement name="Left" style="flex-grow: 1;" />
-                <ui:VisualElement name="Middle" style="flex-grow: 1;" />
-                <ui:VisualElement name="Right" style="flex-grow: 1;" />
+                <ui:VisualElement name="Left" style="flex-grow: 1; background-image: resource(&apos;Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons - copia_69&apos;);" />
+                <ui:VisualElement name="Middle" style="flex-grow: 1; background-image: resource(&apos;Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons - copia_70&apos;);" />
+                <ui:VisualElement name="Right" style="flex-grow: 1; background-image: resource(&apos;Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons - copia_71&apos;);" />
             </ui:VisualElement>
         </ui:VisualElement>
     </ui:VisualElement>

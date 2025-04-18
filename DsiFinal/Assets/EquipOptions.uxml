@@ -1,0 +1,7 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements">
+    <ui:VisualElement name="SwordOptions" class="Options">
+        <ui:VisualElement name="Left" style="flex-grow: 1; background-image: resource(&apos;Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons - copia_60&apos;);" />
+        <ui:VisualElement name="Middle" style="flex-grow: 1; background-image: resource(&apos;Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons - copia_61&apos;);" />
+        <ui:VisualElement name="Right" style="flex-grow: 1; background-image: resource(&apos;espadabigoron&apos;);" />
+    </ui:VisualElement>
+</ui:UXML>
