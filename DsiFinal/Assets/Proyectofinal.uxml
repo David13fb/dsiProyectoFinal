@@ -15,10 +15,8 @@
                 <ui:Button text="Button" parse-escape-sequences="true" display-tooltip-when-elided="true" name="Button" class="InputButon" style="align-self: stretch; background-image: resource(&apos;btnright&apos;);" />
             </ui:VisualElement>
         </ui:VisualElement>
-        <ui:VisualElement name="claves" style="flex-grow: 1; background-color: rgb(255, 255, 255); background-image: resource(&apos;sprite (1)&apos;); display: none;">
-            <ui:VisualElement name="skultula" style="flex-grow: 0; left: 5%; top: 32%; right: 0; bottom: 0; background-image: resource(&apos;spriteSheetSlicer/Nintendo 64 - The Legend of Zelda Ocarina of Time - QuestMap Items_21&apos;); width: 53px; height: 46px; position: relative;" />
-            <ui:Label tabindex="-1" text="x10" parse-escape-sequences="true" display-tooltip-when-elided="true" style="color: rgb(255, 255, 255); width: 53px; height: 46px; left: 16%; top: 21%; right: 0; bottom: 0; font-size: 24px;" />
-            <ui:VisualElement name="Medallones" style="flex-grow: 0; left: 56%; top: -11%; right: 0; bottom: 0; width: 37%; height: 65%;">
+        <ui:VisualElement name="claves" style="flex-grow: 1; background-color: rgb(255, 255, 255); background-image: resource(&apos;sprite (1)&apos;); display: flex;">
+            <ui:VisualElement name="Medallones" style="flex-grow: 0; left: 56%; top: 11%; right: 0; bottom: 0; width: 37%; height: 65%;">
                 <ui:VisualElement name="medallon" class="medallon" style="background-image: resource(&apos;spriteSheetSlicer/Nintendo 64 - The Legend of Zelda Ocarina of Time - QuestMap Items_13&apos;); left: 38%; top: 7%;" />
                 <ui:VisualElement name="medallon" class="medallon" style="left: 70%; top: 1%; background-image: resource(&apos;spriteSheetSlicer/Nintendo 64 - The Legend of Zelda Ocarina of Time - QuestMap Items_11&apos;);" />
                 <ui:VisualElement name="medallon" class="medallon" style="left: 70%; top: 10%; background-image: resource(&apos;spriteSheetSlicer/Nintendo 64 - The Legend of Zelda Ocarina of Time - QuestMap Items_12&apos;);" />
@@ -26,6 +24,7 @@
                 <ui:VisualElement name="medallon" class="medallon" style="left: 5%; top: -34%; background-image: resource(&apos;spriteSheetSlicer/Nintendo 64 - The Legend of Zelda Ocarina of Time - QuestMap Items_14&apos;);" />
                 <ui:VisualElement name="medallon" class="medallon" style="left: 5%; top: 24%; background-image: resource(&apos;spriteSheetSlicer/Nintendo 64 - The Legend of Zelda Ocarina of Time - QuestMap Items_15&apos;); position: absolute;" />
             </ui:VisualElement>
+            <CustomControllerItemsClave numskulltulas="44" focusable="false" style="left: 4%; top: -34%; flex-direction: row; width: 37%; height: 35%;" />
         </ui:VisualElement>
         <ui:VisualElement name="estado" style="flex-grow: 1; background-image: resource(&apos;sprite (1)&apos;); display: none;" />
         <ui:VisualElement name="EquipMenu" style="flex-grow: 1; background-image: resource(&apos;equipo&apos;); flex-direction: row; display: flex;">
