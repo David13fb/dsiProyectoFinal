@@ -28,3 +28,15 @@
     background-color: rgba(0, 0, 0, 0);
     color: rgba(27, 27, 27, 0);
 }
+
+.medallon {
+    flex-grow: 0;
+    flex-shrink: 0;
+    width: 71px;
+    height: 64px;
+    background-image: resource('spriteSheetSlicer/Nintendo 64 - The Legend of Zelda Ocarina of Time - QuestMap Items_10');
+    left: 108px;
+    top: 21px;
+    right: 0;
+    bottom: 0;
+}

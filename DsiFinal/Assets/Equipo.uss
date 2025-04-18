@@ -88,6 +88,3 @@
     left: 55px;
     flex-direction: row;
 }
-
-.Equip {
-}
