@@ -33,6 +33,7 @@ public class CustomControllerItemsClave : VisualElement
         num.text = " x" + numSkultulas;
     }
 
+
     public CustomControllerItemsClave()
     {
         // Crea los contenedores para los arrays

@@ -1,18 +1,16 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
+using System.Collections.Generic;
+using UnityEngine.UIElements;
 
-public class BaseDeDatos : MonoBehaviour
+
+namespace ProyectoFinal
 {
-    // Start is called before the first frame update
-    void Start()
+    public class BaseDeDatos
     {
-        
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
+        public static GameInfo getData(GameInfo jsonInd)
+        {
+            GameInfo datos = jsonInd;
+            return datos;
+        }
     }
 }
