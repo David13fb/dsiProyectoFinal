@@ -1,0 +1,7 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements">
+    <ui:VisualElement name="ItemToEquip" style="flex-grow: 0; flex-shrink: 0; margin-top: 0; height: 65px; width: 300px; margin-left: 0; margin-right: 0; left: 0; top: 0; flex-direction: row;">
+        <ui:VisualElement name="Left" style="flex-grow: 1;" />
+        <ui:VisualElement name="Mid" style="flex-grow: 1;" />
+        <ui:VisualElement name="Right" style="flex-grow: 1;" />
+    </ui:VisualElement>
+</ui:UXML>

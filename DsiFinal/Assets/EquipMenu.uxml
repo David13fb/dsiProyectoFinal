@@ -1,0 +1,18 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/Equipo.uss?fileID=7433441132597879392&amp;guid=acdac216217aca745bc4b0de13ccfc35&amp;type=3#Equipo" />
+    <ui:VisualElement name="EquipMenu" style="flex-grow: 1; background-image: resource(&apos;equipo&apos;); flex-direction: row;">
+        <ui:VisualElement name="LeftPanel" style="flex-grow: initial; align-self: auto; flex-shrink: initial; width: 151px;">
+            <ui:VisualElement name="UnEquipableItem1" style="flex-grow: 0; flex-shrink: 0; height: 88px; width: 92px; margin-left: 35px; margin-top: 110px; background-image: resource(&apos;Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons - copia_77&apos;);" />
+            <ui:VisualElement name="UnEquipableItem1" style="flex-grow: 0; flex-shrink: 0; height: 88px; width: 92px; margin-left: 35px; margin-top: 45px; background-image: resource(&apos;Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons - copia_80&apos;);" />
+            <ui:VisualElement name="UnEquipableItem1" style="flex-grow: 0; flex-shrink: 0; height: 88px; width: 92px; margin-left: 35px; margin-top: 45px; background-image: resource(&apos;Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons - copia_83&apos;);" />
+            <ui:VisualElement name="UnEquipableItem1" style="flex-grow: 0; flex-shrink: 0; height: 88px; width: 92px; margin-left: 35px; margin-top: 45px; background-image: resource(&apos;Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons - copia_85&apos;);" />
+        </ui:VisualElement>
+        <ui:VisualElement name="MiddlePanel" style="flex-grow: 0; flex-shrink: 0; width: 261px; height: 495px; margin-left: 30px; margin-top: 110px; background-image: none;">
+            <ui:VisualElement name="EquipedItem1" style="flex-grow: 1;" />
+            <ui:VisualElement name="EquipedItem2" style="flex-grow: 1;" />
+            <ui:VisualElement name="EquipedItem3" style="flex-grow: 1;" />
+            <ui:VisualElement name="EquipedItem4" style="flex-grow: 1;" />
+        </ui:VisualElement>
+        <ui:VisualElement name="RightPanel" style="flex-grow: 1;" />
+    </ui:VisualElement>
+</ui:UXML>

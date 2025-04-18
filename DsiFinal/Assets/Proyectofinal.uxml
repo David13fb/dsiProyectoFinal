@@ -1,7 +1,7 @@
 <ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
     <Style src="project://database/Assets/proyecto_final.uss?fileID=7433441132597879392&amp;guid=00e896d6a682ca8469e60094285e58e4&amp;type=3#proyecto_final" />
     <ui:VisualElement name="background" style="flex-grow: 1; display: flex; position: relative;">
-        <ui:VisualElement name="item" style="flex-grow: 1; background-color: rgb(255, 255, 255); background-image: resource(&apos;sprite&apos;); display: flex;">
+        <ui:VisualElement name="item" style="flex-grow: 1; background-color: rgb(255, 255, 255); background-image: resource(&apos;sprite&apos;); display: none;">
             <ui:Button text="Button" parse-escape-sequences="true" display-tooltip-when-elided="true" name="BotonObjeto" class="InvBtn" />
             <ui:Button text="Button" parse-escape-sequences="true" display-tooltip-when-elided="true" class="InvBtn" style="left: 418px; top: 30px; background-image: resource(&apos;bomba&apos;);" />
             <ui:Button text="Button" parse-escape-sequences="true" display-tooltip-when-elided="true" class="InvBtn" style="background-image: resource(&apos;gancho&apos;); top: 69px;" />
@@ -28,5 +28,20 @@
             </ui:VisualElement>
         </ui:VisualElement>
         <ui:VisualElement name="estado" style="flex-grow: 1; background-image: resource(&apos;sprite (1)&apos;); display: none;" />
+        <ui:VisualElement name="EquipMenu" style="flex-grow: 1; background-image: resource(&apos;equipo&apos;); flex-direction: row; display: flex;">
+            <ui:VisualElement name="LeftPanel" style="flex-grow: initial; align-self: auto; flex-shrink: initial; width: 151px;">
+                <ui:VisualElement name="UnEquipableItem1" style="flex-grow: initial; flex-shrink: initial; height: 54px; width: 82px; margin-left: 0; margin-top: 0; background-image: resource(&apos;Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons - copia_77&apos;); left: 33px; top: 80px;" />
+                <ui:VisualElement name="UnEquipableItem2" style="flex-grow: initial; flex-shrink: initial; height: 54px; width: 82px; margin-left: 0; margin-top: 0; background-image: resource(&apos;Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons - copia_80&apos;); left: 33px; top: 115px;" />
+                <ui:VisualElement name="UnEquipableItem3" style="flex-grow: initial; flex-shrink: initial; height: 54px; width: 82px; margin-left: 0; margin-top: 0; background-image: resource(&apos;Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons - copia_83&apos;); left: 33px; top: 150px;" />
+                <ui:VisualElement name="UnEquipableItem4" style="flex-grow: initial; flex-shrink: initial; height: 54px; width: 82px; margin-left: 0; margin-top: 0; background-image: resource(&apos;Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons - copia_85&apos;); left: 33px; top: 185px;" />
+            </ui:VisualElement>
+            <ui:VisualElement name="MiddlePanel" style="flex-grow: initial; flex-shrink: initial; width: 234px; height: 331px; margin-left: 0; margin-top: 0; background-image: none; top: 80px; left: 25px;">
+                <ui:VisualElement name="EquipedItem1" style="flex-grow: 1; background-image: resource(&apos;Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons - copia_61&apos;);" />
+                <ui:VisualElement name="EquipedItem2" style="flex-grow: 1; background-image: resource(&apos;Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons - copia_64&apos;);" />
+                <ui:VisualElement name="EquipedItem3" style="flex-grow: 1; background-image: resource(&apos;Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons - copia_66&apos;);" />
+                <ui:VisualElement name="EquipedItem4" style="flex-grow: 1; background-image: resource(&apos;Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons - copia_69&apos;);" />
+            </ui:VisualElement>
+            <ui:VisualElement name="RightPanel" style="flex-grow: initial; left: 40px; flex-shrink: initial; width: 369px;" />
+        </ui:VisualElement>
     </ui:VisualElement>
 </ui:UXML>
