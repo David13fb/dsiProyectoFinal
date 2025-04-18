@@ -1,20 +1,41 @@
 <ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
     <Style src="project://database/Assets/Equipo.uss?fileID=7433441132597879392&amp;guid=acdac216217aca745bc4b0de13ccfc35&amp;type=3#Equipo" />
     <ui:VisualElement name="background" style="flex-grow: 1; background-image: resource(&apos;equipo&apos;); flex-direction: row;">
-        <ui:VisualElement name="LeftPanel" class="LeftPanel">
+        <ui:VisualElement name="LeftPanel" class="LeftPanel" style="flex-grow: 0; flex-shrink: 0; width: 470px;">
             <ui:VisualElement name="UnEquipableItems" class="UnEquipableItems">
-                <ui:VisualElement name="UnEquipableItem1" class="UnEqupableItem1" />
-                <ui:VisualElement name="UnEquipableItem2" class="UnEqupableItem2" />
-                <ui:VisualElement name="UnEquipableItem3" class="UnEqupableItem3" />
-                <ui:VisualElement name="UnEquipableItem4" class="UnEqupableItem4" style="background-image: none;" />
+                <ui:VisualElement name="UnEquipableItem1" class="UnEqupableItem1 UnEquipableItem1" />
+                <ui:VisualElement name="UnEquipableItem2" class="UnEquipableItem2" />
+                <ui:VisualElement name="UnEquipableItem3" class="UnEquipableItem3" />
+                <ui:VisualElement name="UnEquipableItem4" class="UnEquipableItem4" />
             </ui:VisualElement>
             <ui:VisualElement name="ItemsEquipped" class="ItemsEquipped">
-                <ui:VisualElement name="SwordEquip" style="flex-grow: 1;" />
-                <ui:VisualElement name="ShieldEquip" style="flex-grow: 1;" />
-                <ui:VisualElement name="SuitEquip" style="flex-grow: 1;" />
-                <ui:VisualElement name="BootsEquip" style="flex-grow: 1;" />
+                <ui:VisualElement name="SwordEquip" class="SwordEquip" />
+                <ui:VisualElement name="ShieldEquip" class="ShieldEquip" />
+                <ui:VisualElement name="SuitEquip" class="SuitEquip" />
+                <ui:VisualElement name="BootsEquip" class="BootsEquip Equip" />
             </ui:VisualElement>
         </ui:VisualElement>
-        <ui:VisualElement name="RightPanel" style="flex-grow: 1;" />
+        <ui:VisualElement name="RightPanel" class="RightPanel">
+            <ui:VisualElement name="SwordOptions" class="Options">
+                <ui:VisualElement name="Left" style="flex-grow: 1;" />
+                <ui:VisualElement name="Middle" style="flex-grow: 1;" />
+                <ui:VisualElement name="Right" style="flex-grow: 1;" />
+            </ui:VisualElement>
+            <ui:VisualElement name="ShieldOptions" class="Options" style="flex-grow: 0; flex-shrink: 0; top: 182px; height: 70px; width: 320px; left: 55px; flex-direction: row;">
+                <ui:VisualElement name="Left" style="flex-grow: 1;" />
+                <ui:VisualElement name="Middle" style="flex-grow: 1;" />
+                <ui:VisualElement name="Right" style="flex-grow: 1;" />
+            </ui:VisualElement>
+            <ui:VisualElement name="SuitOptions" class="Options" style="flex-grow: 0; flex-shrink: 0; top: 245px; height: 70px; width: 320px; left: 55px; flex-direction: row;">
+                <ui:VisualElement name="Left" style="flex-grow: 1;" />
+                <ui:VisualElement name="Middle" style="flex-grow: 1;" />
+                <ui:VisualElement name="Right" style="flex-grow: 1;" />
+            </ui:VisualElement>
+            <ui:VisualElement name="BootsOptions" class="Options" style="flex-grow: 0; flex-shrink: 0; top: 308px; height: 70px; width: 320px; left: 55px; flex-direction: row;">
+                <ui:VisualElement name="Left" style="flex-grow: 1;" />
+                <ui:VisualElement name="Middle" style="flex-grow: 1;" />
+                <ui:VisualElement name="Right" style="flex-grow: 1;" />
+            </ui:VisualElement>
+        </ui:VisualElement>
     </ui:VisualElement>
 </ui:UXML>

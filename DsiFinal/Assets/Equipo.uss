@@ -11,32 +11,43 @@
     flex-direction: column;
 }
 
-.UnEqupableItem1 {
-    flex-grow: 1;
-    height: -250px;
-    width: 126px;
-    left: 25px;
+.UnEquipableItem1 {
+    flex-grow: 0;
+    flex-shrink: 0;
+    height: 80px;
+    width: 80px;
+    left: 45px;
+    top: 20px;
+    background-image: none;
 }
 
-.UnEqupableItem2 {
-    flex-grow: 1;
-    width: 126px;
-    height: -250px;
-    left: 25px;
+.UnEquipableItem2 {
+    flex-grow: 0;
+    flex-shrink: 0;
+    left: 45px;
+    top: 75px;
+    width: 80px;
+    height: 80px;
+    background-image: none;
 }
 
-.UnEqupableItem3 {
-    flex-grow: 1;
-    left: 25px;
-    width: 126px;
-    height: -250px;
+.UnEquipableItem3 {
+    flex-shrink: 0;
+    flex-grow: 0;
+    top: 120px;
+    width: 80px;
+    height: 80px;
+    left: 45px;
 }
 
-.UnEqupableItem4 {
-    flex-grow: 1;
-    left: 25px;
-    width: 126px;
-    height: -250px;
+.UnEquipableItem4 {
+    background-image: none;
+    flex-shrink: 0;
+    flex-grow: 0;
+    top: 175px;
+    left: 45px;
+    width: 80px;
+    height: 80px;
 }
 
 .ItemsEquipped {
@@ -45,4 +56,38 @@
     width: -72px;
     bottom: -150px;
     left: -10px;
+}
+
+.SwordEquip {
+    flex-grow: 1;
+}
+
+.ShieldEquip {
+    flex-grow: 1;
+}
+
+.SuitEquip {
+    flex-grow: 1;
+}
+
+.BootsEquip {
+    flex-grow: 1;
+}
+
+.RightPanel {
+    flex-grow: 0;
+    width: 500px;
+}
+
+.Options {
+    flex-grow: 0;
+    flex-shrink: 0;
+    top: 120px;
+    height: 70px;
+    width: 320px;
+    left: 55px;
+    flex-direction: row;
+}
+
+.Equip {
 }
