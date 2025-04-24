@@ -26,9 +26,9 @@
                 <ui:VisualElement name="medallon" class="medallon" style="left: 5%; top: -34%; background-image: resource(&apos;spriteSheetSlicer/Nintendo 64 - The Legend of Zelda Ocarina of Time - QuestMap Items_14&apos;);" />
                 <ui:VisualElement name="medallon" class="medallon" style="left: 5%; top: 24%; background-image: resource(&apos;spriteSheetSlicer/Nintendo 64 - The Legend of Zelda Ocarina of Time - QuestMap Items_15&apos;); position: absolute;" />
             </ui:VisualElement>
-            <CustomControllerItemsClave numskulltulas="44" focusable="false" style="left: 4%; top: -34%; flex-direction: row; width: 37%; height: 35%;" />
+            <CustomControllerItemsClave numskulltulas="123" focusable="false" name="jhaskjdasjkd" style="left: 4%; top: -34%; flex-direction: row; width: 37%; height: 35%;" />
         </ui:VisualElement>
-        <ui:VisualElement name="EquipMenu" style="flex-grow: 1; background-image: resource(&apos;equipo&apos;); flex-direction: row; display: none;">
+        <ui:VisualElement name="EquipMenu" style="flex-grow: 1; background-image: resource(&apos;equipo&apos;); flex-direction: row; display: none; opacity: 1;">
             <ui:VisualElement name="LeftPanel" style="flex-grow: initial; align-self: auto; flex-shrink: initial; width: 151px;">
                 <ui:VisualElement name="UnEquipableItem1" style="flex-grow: initial; flex-shrink: initial; height: 54px; width: 82px; margin-left: 0; margin-top: 0; background-image: resource(&apos;Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons - copia_77&apos;); left: 33px; top: 80px;" />
                 <ui:VisualElement name="UnEquipableItem2" style="flex-grow: initial; flex-shrink: initial; height: 54px; width: 82px; margin-left: 0; margin-top: 0; background-image: resource(&apos;Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons - copia_80&apos;); left: 33px; top: 115px;" />

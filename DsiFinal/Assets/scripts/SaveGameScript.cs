@@ -18,14 +18,17 @@ namespace ProyectoFinal{
             VisualElement root = GetComponent<UIDocument>().rootVisualElement;
             guardar = root.Q<Button>("Guardar");
             cargar = root.Q<Button>("Cargar");
+            custom = root.Q<CustomControllerItemsClave>("CustomControllerItemsClave");
             guardar.RegisterCallback<ClickEvent>(GuardarJson);
             cargar.RegisterCallback<ClickEvent>(CargarJson);
         }
 
         private void GuardarJson(ClickEvent evt)
         {
-            gameInfo.Skultula = custom.nSkultulas;
+
             // gameInfo.Medallones = custom.nMedallones;
+            Debug.Log(custom);
+            gameInfo.Skultula = custom.nSkultulas;
             string rutaArchivo = Application.persistentDataPath + "/individuos.json"; //Guardamos la ruta del Json
             string listaToJson = JsonHelper.ToJSon(gameInfo, true); // Convierte la lista a JSON
             File.WriteAllText(rutaArchivo, listaToJson); // Guarda el JSON en un archivo
@@ -51,7 +54,7 @@ namespace ProyectoFinal{
 
         private void Start()
         {
-            custom = new CustomControllerItemsClave() ;
+
         }
     }
 
