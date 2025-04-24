@@ -1,7 +1,7 @@
 <ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
     <Style src="project://database/Assets/proyecto_final.uss?fileID=7433441132597879392&amp;guid=00e896d6a682ca8469e60094285e58e4&amp;type=3#proyecto_final" />
     <ui:VisualElement name="background" style="flex-grow: 1; display: flex; position: relative;">
-        <ui:VisualElement name="item" style="flex-grow: 1; background-color: rgb(255, 255, 255); background-image: resource(&apos;sprite&apos;); display: none;">
+        <ui:VisualElement name="item" style="flex-grow: 1; background-color: rgb(255, 255, 255); background-image: resource(&apos;sprite&apos;); display: flex;">
             <ui:Button text="Button" parse-escape-sequences="true" display-tooltip-when-elided="true" name="BotonObjeto" class="InvBtn" />
             <ui:Button text="Button" parse-escape-sequences="true" display-tooltip-when-elided="true" class="InvBtn" style="left: 418px; top: 30px; background-image: resource(&apos;bomba&apos;);" />
             <ui:Button text="Button" parse-escape-sequences="true" display-tooltip-when-elided="true" class="InvBtn" style="background-image: resource(&apos;gancho&apos;); top: 69px;" />
@@ -17,7 +17,7 @@
             <ui:Button text="Guardar" parse-escape-sequences="true" display-tooltip-when-elided="true" name="Guardar" style="height: 34px; width: 149px; left: 200px; top: -250px;" />
             <ui:Button text="Cargar" parse-escape-sequences="true" display-tooltip-when-elided="true" name="Cargar" style="height: 34px; width: 149px; left: 200px; top: -200px; flex-grow: 0;" />
         </ui:VisualElement>
-        <ui:VisualElement name="claves" style="flex-grow: 1; background-color: rgb(255, 255, 255); background-image: resource(&apos;sprite (1)&apos;); display: flex;">
+        <ui:VisualElement name="claves" style="flex-grow: 1; background-color: rgb(255, 255, 255); background-image: resource(&apos;sprite (1)&apos;); display: none;">
             <ui:VisualElement name="Medallones" style="flex-grow: 0; left: 56%; top: 11%; right: 0; bottom: 0; width: 37%; height: 65%; display: flex;">
                 <ui:VisualElement name="m1" class="medallon" style="background-image: resource(&apos;spriteSheetSlicer/Nintendo 64 - The Legend of Zelda Ocarina of Time - QuestMap Items_13&apos;); left: 38%; top: 7%;" />
                 <ui:VisualElement name="m2" class="medallon" style="left: 70%; top: 1%; background-image: resource(&apos;spriteSheetSlicer/Nintendo 64 - The Legend of Zelda Ocarina of Time - QuestMap Items_11&apos;);" />
