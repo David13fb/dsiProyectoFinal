@@ -54,6 +54,7 @@ public class EquipItems : MonoBehaviour
 
     private void OnEnable()
     {
+        //Nos colocamos en el menu correspondiente
         VisualElement root = GetComponent<UIDocument>().rootVisualElement;
         VisualElement item = root.Q<VisualElement>("item");
 
@@ -131,21 +132,29 @@ public class EquipItems : MonoBehaviour
         obj_borde_negro();
     }
 
+    //Guardamos la referencia a la imagen original
     private void saveSprite(Sprite spr,int button)
     {
         sprite = spr;
         index = button;
         isSelected = true;
     }
+
+    //Cambia el sprite guardado previamente por el sprite actual de la imagen
     private void setSprite(Button button, Sprite actSprite, int buttonIndex)
     {
-        //Cambiar la imagen del array
+        //Cambiar la imagen del array para saber cual es la imagen a guardar
         sprs[index] = actSprite;
         sprs[buttonIndex] = sprite;
-        if(buttonIndex >= 7)
+        isSelected = false;
+
+        //En caso de que se clicke por segunda vez una de las 4 flechas:
+        if (buttonIndex >= 7)
         {
+            //Comprobamos si el sprite guardado previamente es vacío o no
             if (sprite == Resources.Load<Sprite>(" "))
             {
+                //En caso de serlo seteamos la flecha correspondiente en función del índice
                 switch (buttonIndex)
                 {
                     case 7:
@@ -162,45 +171,94 @@ public class EquipItems : MonoBehaviour
                         break;
                 }
             }
+            //Si el sprite no es nulo cambiamos el sprite actual por el guardado
             else
             {
                 button.style.backgroundImage = new StyleBackground(sprite);
             }
-            buttons[index].style.backgroundImage = new StyleBackground(actSprite);
+
+            //Si del mismo modo el click anterior es de unas flechas
+            if (index >= 7)
+            {
+                //Comprobamos que el sprite actual no sea vacío
+                if (actSprite == Resources.Load<Sprite>(" "))
+                {
+                    //Si lo es asignamos la flecha correspondiente
+                    switch (index)
+                    {
+                        case 7:
+                            buttons[index].style.backgroundImage = new StyleBackground(leftArrow);
+                            break;
+                        case 8:
+                            buttons[index].style.backgroundImage = new StyleBackground(rightArrow);
+                            break;
+                        case 9:
+                            buttons[index].style.backgroundImage = new StyleBackground(upArrow);
+                            break;
+                        case 10:
+                            buttons[index].style.backgroundImage = new StyleBackground(downArrow);
+                            break;
+                    }
+                }
+                //Si no lo es cambiamos el sprite tal cual
+                else
+                {
+                    buttons[index].style.backgroundImage = new StyleBackground(actSprite);
+                }
+            }
+            //Si el click anterior no corresponde a las flechas cambiamos la imagen directamente
+            else
+            {
+                buttons[index].style.backgroundImage = new StyleBackground(actSprite);
+            }
         }
+        //En caso de que el segundo click no sea de las flechas
         else
         {
-            switch (index)
+            //Comprobamos que el sprite actual no sea nulo
+            if(actSprite == Resources.Load<Sprite>(" "))
             {
-                case 7:
-                    buttons[index].style.backgroundImage = new StyleBackground(leftArrow);
-                    break;
-                case 8:
-                    buttons[index].style.backgroundImage = new StyleBackground(rightArrow);
-                    break;
-                case 9:
-                    buttons[index].style.backgroundImage = new StyleBackground(upArrow);
-                    break;
-                case 10:
-                    buttons[index].style.backgroundImage = new StyleBackground(downArrow);
-                    break;
-                default:
-                    buttons[index].style.backgroundImage = new StyleBackground(actSprite);
-                    break;
+                //Si lo es entonces cambiamos a las flechas en caso de ser una de estas o dejamos el hueco vacío en el inventario
+                switch (index)
+                {
+                    case 7:
+                        buttons[index].style.backgroundImage = new StyleBackground(leftArrow);
+                        break;
+                    case 8:
+                        buttons[index].style.backgroundImage = new StyleBackground(rightArrow);
+                        break;
+                    case 9:
+                        buttons[index].style.backgroundImage = new StyleBackground(upArrow);
+                        break;
+                    case 10:
+                        buttons[index].style.backgroundImage = new StyleBackground(downArrow);
+                        break;
+                    default:
+                        buttons[index].style.backgroundImage = new StyleBackground(actSprite);
+                        break;
+                }
             }
+            //Si no lo es  cambiamos el sprite directamente
+            else
+            {
+                buttons[index].style.backgroundImage = new StyleBackground(actSprite);
+            }
+            //Cambiamos el sprite del boton actual por el guardado anteriormente
             button.style.backgroundImage = new StyleBackground(sprite);
         }
-        isSelected = false;
     }
     private void colocarObjetos(ClickEvent e,Sprite spr,int button)
     {
         Button obj = e.target as Button;
+        //Si ya se ha seleccionado una imagen antes
         if (isSelected)
         {
             obj_borde_negro();
             setSprite(obj,spr,button);
             
         }
+
+        //Si no se ha seleccionado
         else
         {
             obj_borde_negro();
@@ -217,7 +275,11 @@ public class EquipItems : MonoBehaviour
         cambiaBordeNegro(nueces);
         cambiaBordeNegro(huevo);
         cambiaBordeNegro(gustabo);
-        cambiaBordeNegro(Empty);  
+        cambiaBordeNegro(Empty);
+        cambiaBordeNegro(izquierda);
+        cambiaBordeNegro(derecha);
+        cambiaBordeNegro(abajo);
+        cambiaBordeNegro(arriba);
     }
     void cambiaBordeNegro(Button b)
     {
