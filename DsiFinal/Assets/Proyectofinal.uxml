@@ -2,17 +2,18 @@
     <Style src="project://database/Assets/proyecto_final.uss?fileID=7433441132597879392&amp;guid=00e896d6a682ca8469e60094285e58e4&amp;type=3#proyecto_final" />
     <ui:VisualElement name="background" style="flex-grow: 1; display: flex; position: relative;">
         <ui:VisualElement name="item" style="flex-grow: 1; background-color: rgb(255, 255, 255); background-image: resource(&apos;sprite&apos;); display: flex;">
-            <ui:Button text="Button" parse-escape-sequences="true" display-tooltip-when-elided="true" name="BotonObjeto" class="InvBtn" />
-            <ui:Button text="Button" parse-escape-sequences="true" display-tooltip-when-elided="true" class="InvBtn" style="left: 418px; top: 30px; background-image: resource(&apos;bomba&apos;);" />
-            <ui:Button text="Button" parse-escape-sequences="true" display-tooltip-when-elided="true" class="InvBtn" style="background-image: resource(&apos;gancho&apos;); top: 69px;" />
-            <ui:Button text="Button" parse-escape-sequences="true" display-tooltip-when-elided="true" class="InvBtn" style="left: 638px; top: -71px; background-image: resource(&apos;nuezdeku&apos;);" />
-            <ui:Button text="Button" parse-escape-sequences="true" display-tooltip-when-elided="true" name="Button" class="InvBtn" style="left: 638px; top: -30px; background-image: resource(&apos;egg&apos;);" />
-            <ui:Button text="Button" parse-escape-sequences="true" display-tooltip-when-elided="true" class="InvBtn" style="left: 637px; top: 10px; right: 4px; background-image: resource(&apos;gustabo&apos;);" />
-            <ui:VisualElement name="InputContainer" style="flex-grow: 0; background-color: rgba(0, 0, 0, 0); background-image: resource(&apos;btndown&apos;); -unity-background-image-tint-color: rgba(255, 255, 255, 0); left: 12.5%; top: 8%; right: 604px; bottom: 66px; width: 380px; height: 75px; scale: 1 1; flex-shrink: 0; align-self: auto; align-items: auto; justify-content: space-around; flex-direction: row;">
-                <ui:Button text="Button" parse-escape-sequences="true" display-tooltip-when-elided="true" name="Button" class="InputButon" style="align-self: stretch;" />
-                <ui:Button text="Button" parse-escape-sequences="true" display-tooltip-when-elided="true" name="Button" class="InputButon" style="align-self: stretch; background-image: resource(&apos;btndown&apos;);" />
-                <ui:Button text="Button" parse-escape-sequences="true" display-tooltip-when-elided="true" name="Button" class="InputButon" style="align-self: stretch; background-image: resource(&apos;btnup&apos;);" />
-                <ui:Button text="Button" parse-escape-sequences="true" display-tooltip-when-elided="true" name="Button" class="InputButon" style="align-self: stretch; background-image: resource(&apos;btnright&apos;);" />
+            <ui:Button text="Button" parse-escape-sequences="true" display-tooltip-when-elided="true" name="Arco" class="InvBtn" />
+            <ui:Button text="Button" parse-escape-sequences="true" display-tooltip-when-elided="true" name="Bomba" class="InvBtn" style="left: 418px; top: 30px; background-image: resource(&apos;bomba&apos;);" />
+            <ui:Button text="Button" parse-escape-sequences="true" display-tooltip-when-elided="true" name="Gancho" class="InvBtn" style="background-image: resource(&apos;gancho&apos;); top: 69px;" />
+            <ui:Button text="Button" parse-escape-sequences="true" display-tooltip-when-elided="true" name="Nuez" class="InvBtn" style="left: 638px; top: -71px; background-image: resource(&apos;nuezdeku&apos;);" />
+            <ui:Button text="Button" parse-escape-sequences="true" display-tooltip-when-elided="true" name="Huevo" class="InvBtn" style="left: 638px; top: -30px; background-image: resource(&apos;egg&apos;);" />
+            <ui:Button text="Button" parse-escape-sequences="true" display-tooltip-when-elided="true" name="Gustavo" class="InvBtn" style="left: 637px; top: 10px; right: 4px; background-image: resource(&apos;gustabo&apos;);" />
+            <ui:Button text="Button" parse-escape-sequences="true" display-tooltip-when-elided="true" name="Empty" class="InvBtn" style="background-image: none; top: -35px;" />
+            <ui:VisualElement name="InputContainer" style="flex-grow: 0; background-color: rgba(0, 0, 0, 0); background-image: resource(&apos;btndown&apos;); -unity-background-image-tint-color: rgba(255, 255, 255, 0); left: 12.5%; top: 8%; right: 604px; bottom: 66px; width: 380px; height: 75px; scale: 1 1; flex-shrink: 0; align-self: auto; align-items: auto; justify-content: space-around; flex-direction: row; margin-top: -50px;">
+                <ui:Button text="Button" parse-escape-sequences="true" display-tooltip-when-elided="true" name="Izquierda" class="InputButon" style="align-self: stretch;" />
+                <ui:Button text="Button" parse-escape-sequences="true" display-tooltip-when-elided="true" name="Abajo" class="InputButon" style="align-self: stretch; background-image: resource(&apos;btndown&apos;);" />
+                <ui:Button text="Button" parse-escape-sequences="true" display-tooltip-when-elided="true" name="Arriba" class="InputButon" style="align-self: stretch; background-image: resource(&apos;btnup&apos;);" />
+                <ui:Button text="Button" parse-escape-sequences="true" display-tooltip-when-elided="true" name="Derecha" class="InputButon" style="align-self: stretch; background-image: resource(&apos;btnright&apos;);" />
             </ui:VisualElement>
             <ui:Button text="Guardar" parse-escape-sequences="true" display-tooltip-when-elided="true" name="Guardar" style="height: 34px; width: 149px; left: 200px; top: -250px;" />
             <ui:Button text="Cargar" parse-escape-sequences="true" display-tooltip-when-elided="true" name="Cargar" style="height: 34px; width: 149px; left: 200px; top: -200px; flex-grow: 0;" />
