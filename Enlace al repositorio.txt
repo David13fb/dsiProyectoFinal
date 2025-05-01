@@ -1,0 +1,12 @@
+IMPORTANTE:
+
+Para cambiar de menú, se usan las teclas a y d respectivamente
+
+El primer menú permite modificar los objetos y trasladarlos entre los distintos cuadrados negros, como si de un inventario se tratase. Del mismo modo hay se encuentra el botón de guardar y cargar los datos de un JSON (estos guardan el equipo del tercer menú y el total de medallones del segundo)
+
+El segundo menú, permite modificar el numero de medallas que hay a la derecha usando las teclas w y s para aumentar o disminuir el número hasta cierto número respectivamente 
+
+El tercer menú permite elegir el equipo de nuestro héroe entre las 3 espadas, 3 escudos, 3 túnicas y 3 pares botas
+
+
+ENLACE: https://github.com/David13fb/dsiProyectoFinal
