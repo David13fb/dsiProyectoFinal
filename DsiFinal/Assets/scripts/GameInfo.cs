@@ -1,5 +1,7 @@
 using UnityEngine;
 using System;
+using UnityEngine.UIElements;
+using System.Collections.Generic;
 
 namespace ProyectoFinal
 {
@@ -24,22 +26,65 @@ namespace ProyectoFinal
             }
         }
 
- /*       [SerializeField] private Sprite top;
-        public Sprite Top
+      [SerializeField] private Sprite sword;
+        public Sprite Sword
         {
-            get { return top; }
+            get { return sword; }
             set
             {
-                if (value != top)
+                if (value != sword)
                 {
-                    top = value;
+                    sword = value;
                     Cambio?.Invoke();
                 }
             }
-        }*/
-        public GameInfo(int medallones)
+        }
+        [SerializeField] private Sprite shield;
+        public Sprite Shield
+        {
+            get { return shield; }
+            set
+            {
+                if (value != shield)
+                {
+                    shield = value;
+                    Cambio?.Invoke();
+                }
+            }
+        }
+        [SerializeField] private Sprite tunic;
+        public Sprite Tunic
+        {
+            get { return tunic; }
+            set
+            {
+                if (value != tunic)
+                {
+                    tunic = value;
+                    Cambio?.Invoke();
+                }
+            }
+        }
+        [SerializeField] private Sprite boots;
+        public Sprite Boots
+        {
+            get { return boots; }
+            set
+            {
+                if (value != boots)
+                {
+                    boots = value;
+                    Cambio?.Invoke();
+                }
+            }
+        }
+        public GameInfo(int medallones, Sprite sword, Sprite shield, Sprite tunic, Sprite boots)
         {
             this.medallones = medallones;
+            this.sword = sword;
+            this.shield = shield;
+            this.tunic = tunic;
+            this.boots = boots;
         }
     }
 }
