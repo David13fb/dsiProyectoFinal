@@ -157,6 +157,7 @@ public class EquipoComponent : MonoBehaviour
 
     }
 
+    //Geters de los equipos
     public Sprite getSword() 
     {
         return swords[swordIndex];
