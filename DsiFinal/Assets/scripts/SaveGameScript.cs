@@ -8,8 +8,8 @@ using System.Linq;
 namespace ProyectoFinal{
     public class SaveGameScript : MonoBehaviour
     {
-        GameInfo gameInfo;
-        CustomControllerItemsClave custom;
+        GameInfo gameInfo = new GameInfo(0);
+        MedallonComponent medallon;
         VisualElement guardar;
         VisualElement cargar;
 
@@ -18,7 +18,6 @@ namespace ProyectoFinal{
             VisualElement root = GetComponent<UIDocument>().rootVisualElement;
             guardar = root.Q<Button>("Guardar");
             cargar = root.Q<Button>("Cargar");
-            custom = root.Q<CustomControllerItemsClave>("CustomControllerItemsClave");
             guardar.RegisterCallback<ClickEvent>(GuardarJson);
             cargar.RegisterCallback<ClickEvent>(CargarJson);
         }
@@ -26,9 +25,7 @@ namespace ProyectoFinal{
         private void GuardarJson(ClickEvent evt)
         {
 
-            // gameInfo.Medallones = custom.nMedallones;
-            Debug.Log(custom);
-            gameInfo.Skultula = custom.nSkultulas;
+            gameInfo.Medallones = medallon.getMedal();
             string rutaArchivo = Application.persistentDataPath + "/individuos.json"; //Guardamos la ruta del Json
             string listaToJson = JsonHelper.ToJSon(gameInfo, true); // Convierte la lista a JSON
             File.WriteAllText(rutaArchivo, listaToJson); // Guarda el JSON en un archivo
@@ -43,18 +40,14 @@ namespace ProyectoFinal{
                 string jsonDesdeArchivo = File.ReadAllText(rutaArchivo); // Lee el contenido del archivo
                 GameInfo jsonToLista = JsonHelper.FromJson<GameInfo>(jsonDesdeArchivo); // Convierte el JSON en lista
                 gameInfo = BaseDeDatos.getData(jsonToLista);
-
-                custom.nSkultulas = gameInfo.Skultula;
-                //custom.nMedallones = gameInfo.Medallones;
-
-
+                medallon.setMedal(gameInfo.Medallones);
                 Debug.Log("Datos cargados desde el archivo JSON.");
             }
         }
 
         private void Start()
         {
-
+            medallon = GetComponent<MedallonComponent>();
         }
     }
 

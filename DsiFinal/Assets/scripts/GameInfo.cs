@@ -10,20 +10,6 @@ namespace ProyectoFinal
     {
         public event Action Cambio;
 
-        [SerializeField] private int skultula;
-
-        public int Skultula
-        {
-            get { return skultula; }
-            set
-            {
-                if (value != skultula)
-                {
-                    skultula = value;
-                    Cambio?.Invoke();
-                }
-            }
-        }
         [SerializeField] private int medallones;
         public int Medallones
         {
@@ -38,7 +24,7 @@ namespace ProyectoFinal
             }
         }
 
-        [SerializeField] private Sprite top;
+ /*       [SerializeField] private Sprite top;
         public Sprite Top
         {
             get { return top; }
@@ -50,12 +36,10 @@ namespace ProyectoFinal
                     Cambio?.Invoke();
                 }
             }
-        }
-        public GameInfo(int skultulas, int medallones, Sprite image)
+        }*/
+        public GameInfo(int medallones)
         {
-            this.skultula = skultulas;
             this.medallones = medallones;
-            this.top = image;
         }
     }
 }

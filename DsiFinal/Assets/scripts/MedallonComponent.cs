@@ -10,6 +10,17 @@ public class MedallonComponent : MonoBehaviour
     [SerializeField]int numMedal = 0;
      
      List<VisualElement> medal = new List<VisualElement>();
+
+    public int getMedal() { return numMedal; }
+    public void setMedal(int medals) 
+    { 
+        numMedal = medals;
+        for (int i = 0; i < 6; i++)
+        {
+            if (i < numMedal) medal[i].style.display = DisplayStyle.Flex;
+            else medal[i].style.display = DisplayStyle.None;
+        }
+    }
     void Start()
     {
      VisualElement root = GetComponent<UIDocument>().rootVisualElement;
