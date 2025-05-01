@@ -11,14 +11,14 @@ public class EquipoComponent : MonoBehaviour
       VisualTreeAsset template = Resources.Load<VisualTreeAsset>("ItemToEquip");
       VisualElement root1 = root.Q("background");
       VisualElement root2 = root1.Q("EquipMenu");
-      VisualElement camImg = root2.Q("LeftPanel");
+      VisualElement camImg = root2.Q("MiddlePanel");
       VisualElement equipMat= root2.Q("RightPanel");
 
       List<VisualElement> leftimgs = new List<VisualElement>();
-      leftimgs.Add(camImg.Q<VisualElement>("UnEquipableItem1"));
-      leftimgs.Add(camImg.Q<VisualElement>("UnEquipableItem2"));
-      leftimgs.Add(camImg.Q<VisualElement>("UnEquipableItem3"));
-      leftimgs.Add(camImg.Q<VisualElement>("UnEquipableItem4"));
+      leftimgs.Add(camImg.Q<VisualElement>("EquipedItem1"));
+      leftimgs.Add(camImg.Q<VisualElement>("EquipedItem2"));
+      leftimgs.Add(camImg.Q<VisualElement>("EquipedItem3"));
+      leftimgs.Add(camImg.Q<VisualElement>("EquipedItem4"));
       //load images
        Sprite sword1 = Resources.Load<Sprite>("espadabigoron");
         Sprite sword2 = Resources.Load<Sprite>("Nintendo 64 - The Legend of Zelda Ocarina of Time - Item Icons - copia_60");
@@ -51,8 +51,8 @@ public class EquipoComponent : MonoBehaviour
         });
 
     right1.RegisterCallback<ClickEvent>(evt => {
-    Debug.Log("Click en Right");
-    // Lógica específica aquí
+    
+    leftimgs[0].style.backgroundImage = right1.style.backgroundImage;
 });
       equipMat.Add(aux1);
        VisualElement aux2 = template.Instantiate();
@@ -61,6 +61,19 @@ public class EquipoComponent : MonoBehaviour
         var right2 = aux2.Q<VisualElement>("Right");right2.style.backgroundImage =  new StyleBackground(sheild3);
         aux2.style.marginTop = 20;
         aux2.style.marginLeft = 10;
+         left2.RegisterCallback<ClickEvent>(evt => {
+          leftimgs[1].style.backgroundImage = left2.style.backgroundImage;
+        });
+
+        med2.RegisterCallback<ClickEvent>(evt => {
+          leftimgs[1].style.backgroundImage = med2.style.backgroundImage;
+        // Lógica específica aquí
+        });
+
+    right2.RegisterCallback<ClickEvent>(evt => {
+    
+    leftimgs[1].style.backgroundImage = right2.style.backgroundImage;
+});
       equipMat.Add(aux2);
        VisualElement aux3 = template.Instantiate();
         var left3 =aux3.Q<VisualElement>("Left");left3.style.backgroundImage =  new StyleBackground(tunica1);
@@ -68,6 +81,19 @@ public class EquipoComponent : MonoBehaviour
         var right3 = aux3.Q<VisualElement>("Right");right3.style.backgroundImage =  new StyleBackground(tunica3);
       aux3.style.marginTop = 20;
       aux3.style.marginLeft = 10;
+      left3.RegisterCallback<ClickEvent>(evt => {
+          leftimgs[2].style.backgroundImage = left3.style.backgroundImage;
+        });
+
+        med3.RegisterCallback<ClickEvent>(evt => {
+          leftimgs[2].style.backgroundImage = med3.style.backgroundImage;
+        // Lógica específica aquí
+        });
+
+    right3.RegisterCallback<ClickEvent>(evt => {
+    
+    leftimgs[2].style.backgroundImage = right3.style.backgroundImage;
+});
       equipMat.Add(aux3);
        VisualElement aux4 = template.Instantiate();
        var left4 = aux4.Q<VisualElement>("Left");left4.style.backgroundImage =  new StyleBackground(zapatillas1);
@@ -75,6 +101,19 @@ public class EquipoComponent : MonoBehaviour
         var right4 = aux4.Q<VisualElement>("Right");right4.style.backgroundImage =  new StyleBackground(zapatillas3);
         aux4.style.marginTop = 20;
         aux4.style.marginLeft = 10;
+          left4.RegisterCallback<ClickEvent>(evt => {
+          leftimgs[3].style.backgroundImage = left4.style.backgroundImage;
+        });
+
+        med4.RegisterCallback<ClickEvent>(evt => {
+          leftimgs[3].style.backgroundImage = med4.style.backgroundImage;
+        // Lógica específica aquí
+        });
+
+    right4.RegisterCallback<ClickEvent>(evt => {
+    
+    leftimgs[3].style.backgroundImage = right4.style.backgroundImage;
+});
       equipMat.Add(aux4);
 
     
